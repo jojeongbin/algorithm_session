@@ -1,1 +1,1 @@
-# algorithm_session
+# GDSC_algorithm_session
